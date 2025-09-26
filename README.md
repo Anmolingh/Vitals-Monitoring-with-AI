@@ -18,7 +18,9 @@ Alerts & Recommendations – Intelligent notifications for abnormal readings, wi
 Scalable Deployment – Dockerized microservices with optional Kubernetes for production.
 
 🏗 Repository Structure
+
 vitals-monitoring-ai/
+
 │
 
 ├── docs/          # Documentation, setup guides, API references
