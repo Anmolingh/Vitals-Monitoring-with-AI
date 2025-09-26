@@ -20,10 +20,15 @@ Scalable Deployment – Dockerized microservices with optional Kubernetes for pr
 🏗 Repository Structure
 vitals-monitoring-ai/
 │
+
 ├── docs/          # Documentation, setup guides, API references
+
 ├── hardware/      # Arduino & Raspberry Pi sensor interfacing
+
 ├── backend/       # API, database, workers, anomaly detection
+
 ├── ai/            # Preprocessing, training, inference, models
+
 └── scripts/       # Utilities (data collector, stress testing)
 
 📊 Data Flow
