@@ -18,7 +18,7 @@ Alerts & Recommendations – Intelligent notifications for abnormal readings, wi
 Scalable Deployment – Dockerized microservices with optional Kubernetes for production.
 
 🏗 Repository Structure
-
+```
 vitals-monitoring-ai/
 
 │
@@ -33,6 +33,7 @@ vitals-monitoring-ai/
 
 └── scripts/       # Utilities (data collector, stress testing)
 
+```
 📊 Data Flow
 
 Sensors → Collect ECG, SpO₂, BP, glucose.
